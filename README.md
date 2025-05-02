@@ -1,4 +1,3 @@
-
 ![bubbles-item_icon_figure](https://github.com/user-attachments/assets/22620638-f9c4-4481-b411-70a46d032b39)
 
 ### Hi there 🐬 🐬 🐬
@@ -15,9 +14,9 @@ I work as a frontend developer (with a bit of backend work) at a company operati
 ![nestjs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs2.svg)
 ![react](	https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 
-🌻 Lately, I’ve been interested in LLM
+🌻 I’ve been interested in LLM
 
-📫 post How to reach me : 
+📫 How to reach me : 
 
 [![linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](www.linkedin.com/in/soyeon-lee-6a1831236)
 
