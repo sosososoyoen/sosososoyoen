@@ -11,6 +11,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: sosososoyoen/sosososoyoen@master
+      - uses: sosososoyoen/sosososoyoen@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
