@@ -21,8 +21,8 @@ I work as a frontend developer (with a bit of backend work) at a company operati
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
 
 
 
