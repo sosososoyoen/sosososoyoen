@@ -16,16 +16,13 @@ I work as a frontend developer (with a bit of backend work) at a company operati
 
 🌻 I’ve been interested in LLM
 
-📫 How to reach me : 
-
-[![linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](www.linkedin.com/in/soyeon-lee-6a1831236)
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosososoyoen&layout=compact)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
