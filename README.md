@@ -8,13 +8,15 @@ I work as a frontend developer (with a bit of backend work) at a company operati
 
 🌊 My main programming language is :
 ![javascript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![javascript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg)
 
 🌊 The frameworks I’m currently using on the job are : 
 ![angular](https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular2.svg)
 ![nestjs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs2.svg)
 ![react](	https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 
-🌻 I’ve been interested in LLM
+🌻 I’ve been interested in NLP, LLM
+https://huggingface.co/soonbob
 
 ### :zap: Recent Activity
 
