@@ -21,6 +21,7 @@ https://huggingface.co/soonbob
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/sosososoyoen/streamlit-chatbot/issues/1) in [sosososoyoen/streamlit-chatbot](https://github.com/sosososoyoen/streamlit-chatbot)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
