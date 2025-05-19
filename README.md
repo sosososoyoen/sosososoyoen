@@ -21,7 +21,7 @@ https://huggingface.co/soonbob
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/sosososoyoen/streamlit-chatbot/pull/2) in [sosososoyoen/streamlit-chatbot](https://github.com/sosososoyoen/streamlit-chatbot)
+1. 💪 Opened PR [#799](https://github.com/langchain-ai/langsmith-docs/pull/799) in [langchain-ai/langsmith-docs](https://github.com/langchain-ai/langsmith-docs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
