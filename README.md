@@ -18,6 +18,9 @@ I work as a frontend developer (with a bit of backend work) at a company operati
 🌻 I’ve been interested in NLP, LLM
 https://huggingface.co/soonbob
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
+</a>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -69,9 +72,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
  Last Updated on 23/05/2025 18:51:42 UTC
 <!--END_SECTION:waka-->
-
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
-</a>
 
 
