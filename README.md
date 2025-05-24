@@ -67,11 +67,11 @@ Python                   1 repo              █░░░░░░░░░░�
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
-
-
-
  Last Updated on 23/05/2025 18:51:42 UTC
 <!--END_SECTION:waka-->
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
+</a>
 
 
