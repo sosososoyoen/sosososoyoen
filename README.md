@@ -21,6 +21,7 @@ https://huggingface.co/soonbob
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
 </a>
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
