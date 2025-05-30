@@ -33,7 +33,7 @@ https://huggingface.co/soonbob
 
 > 📦 209.2 kB Used in GitHub's Storage 
  > 
-> 🏆 219 Contributions in the Year 2025
+> 🏆 221 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,10 +44,10 @@ https://huggingface.co/soonbob
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-🌆 Daytime                106 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-🌃 Evening                204 commits         █████████░░░░░░░░░░░░░░░░   36.36 % 
-🌙 Night                  204 commits         █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌞 Morning                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+🌆 Daytime                106 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+🌃 Evening                204 commits         █████████░░░░░░░░░░░░░░░░   36.23 % 
+🌙 Night                  206 commits         █████████░░░░░░░░░░░░░░░░   36.59 % 
 ```
 
 
@@ -55,9 +55,6 @@ https://huggingface.co/soonbob
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 ```
 
@@ -74,7 +71,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2025 18:52:44 UTC
+ Last Updated on 30/05/2025 17:41:20 UTC
 <!--END_SECTION:waka-->
 
 
