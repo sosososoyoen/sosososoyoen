@@ -33,8 +33,6 @@ https://huggingface.co/soonbob
 
 > 📦 209.2 kB Used in GitHub's Storage 
  > 
-> 🏆 221 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -71,7 +69,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2025 18:52:36 UTC
+ Last Updated on 21/06/2025 18:49:21 UTC
 <!--END_SECTION:waka-->
 
 
