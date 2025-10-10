@@ -25,7 +25,7 @@ https://huggingface.co/soonbob
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#799](https://github.com/langchain-ai/langsmith-docs/pull/799) in [langchain-ai/langsmith-docs](https://github.com/langchain-ai/langsmith-docs)
+1. 🎉 Merged PR [#2](https://github.com/sosososoyoen/next-js-blog/pull/2) in [sosososoyoen/next-js-blog](https://github.com/sosososoyoen/next-js-blog)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
