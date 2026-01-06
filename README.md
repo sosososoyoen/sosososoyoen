@@ -25,7 +25,7 @@ https://huggingface.co/soonbob
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/sosososoyoen/next-js-blog/pull/5) in [sosososoyoen/next-js-blog](https://github.com/sosososoyoen/next-js-blog)
+1. 🎉 Merged PR [#7](https://github.com/sosososoyoen/next-js-blog/pull/7) in [sosososoyoen/next-js-blog](https://github.com/sosososoyoen/next-js-blog)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
