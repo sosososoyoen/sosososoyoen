@@ -44,10 +44,10 @@ https://huggingface.co/soonbob
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-🌆 Daytime                137 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-🌃 Evening                256 commits         █████████░░░░░░░░░░░░░░░░   36.01 % 
-🌙 Night                  271 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌞 Morning                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+🌆 Daytime                137 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+🌃 Evening                256 commits         ██████████░░░░░░░░░░░░░░░   38.15 % 
+🌙 Night                  231 commits         █████████░░░░░░░░░░░░░░░░   34.43 % 
 ```
 
 
@@ -61,17 +61,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ███████████░░░░░░░░░░░░░░   44.12 % 
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JavaScript               14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
+TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 19/05/2026 19:16:57 UTC
+ Last Updated on 20/05/2026 19:20:57 UTC
 <!--END_SECTION:waka-->
 
 
