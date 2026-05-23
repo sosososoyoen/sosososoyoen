@@ -41,23 +41,6 @@ https://huggingface.co/soonbob
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-🌆 Daytime                137 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-🌃 Evening                256 commits         ██████████░░░░░░░░░░░░░░░   38.15 % 
-🌙 Night                  231 commits         █████████░░░░░░░░░░░░░░░░   34.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -71,7 +54,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 19:08:39 UTC
+ Last Updated on 23/05/2026 18:51:45 UTC
 <!--END_SECTION:waka-->
 
 
